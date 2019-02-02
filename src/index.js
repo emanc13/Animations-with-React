@@ -94,7 +94,7 @@ const circleOne = (
   </StyledCircle>
 );
 const circleTwo = (
-  <StyledCircle colorOne="red" colorTwo="green" height="100" width="100">
+  <StyledCircle colorOne="blue" colorTwo="yellow" height="100" width="100">
     <StyledInnerCircle
       colorOne="tomato"
       colorTwo="hotpink"
